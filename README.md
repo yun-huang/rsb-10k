@@ -1,7 +1,5 @@
 ### Protocol (v1.0)
 
-### Protocol (v1.0)
-
 📄 **RSB-10K Protocol PDF:**  
 [RSB-10K_Protocol_v1.pdf](./RSB-10K_Protocol_v1.pdf)
 
