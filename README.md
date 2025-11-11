@@ -1,7 +1,7 @@
 ### Protocol (v1.0)
 
 📄 **RSB-10K Protocol PDF:**  
-[RSB-10K_Protocol_v1.pdf](./RSB-10K_Protocol_v1.pdf)
+[[RSB-10K_Protocol_v1.pdf](./RSB-10K_Protocol_v1.pdf)]
 
 This repository specifies the instructions, metrics, and reporting format for evaluating reasoning stability under framing pressure.
 
